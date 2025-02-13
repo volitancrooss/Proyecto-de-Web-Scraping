@@ -1,6 +1,7 @@
-<h1>Proyecto-de-Web-Scraping</h1>
-<h5>                    Hecho por Alexander apellido1 apellido2 y Rodrigo López Pérez</h5>
-<br><hr>
+<h1 align="center">Proyecto-de-Web-Scraping</h1>
+<h6>1º CFGS - DJK (Digitalización aplicada a los sectores productivos (GS))</h6>
+<h6 align="right">Hecho por Alexander apellido1 apellido2 y Rodrigo López Pérez</h6>
+<hr><br><br><br>
 
 <h3>Proyecto de Web Scraping para Monitorización de Precios 🛍️💻</h3>
 <p>¡Bienvenido/a! Este repositorio contiene el desarrollo de un sistema de Web Scraping para monitorizar precios de productos en diferentes sitios web, con ayuda de IA para la generación de código y Pair Programming para fomentar la colaboración.</p>
@@ -8,19 +9,39 @@
 <br>
 
 <h3>Tabla de Contenidos 📋</h3>
-<or>
-  1. Objetivo General
-  2. Características Principales
-  3. Cronograma de Trabajo
-  4. Detalle de Sesiones
-  5. Requerimientos de Herramientas y Recursos
-  6. Criterios de Evaluación
-  7. Entrega y Presentación Final
-  8. Cómo Contribuir
-  9. Licencia
-</or>
+<ol>
+  <li>Objetivo General</li>
+  <li>Características Principales</li>
+  <li>Cronograma de Trabajo</li>
+  <li>Detalle de Sesiones</li>
+  <li>Requerimientos de Herramientas y Recursos</li>
+  <li>Criterios de Evaluación</li>
+  <li>Entrega y Presentación Final</li>
+  <li>Cómo Contribuir</li>
+  <li>Licencia</li>
+</ol>
+
+<br><hr>
+
+<h3>🔍 Objetivo general 🕵️‍♂️ 🤔</h3>
+<p>Desarrollar un sistema que permita automatizar la recolección y análisis de datos de diferentes sitios web para la monitorización de precios, aprovechando o empleando los siguientes aspectos a mencionar:
+<ul>
+  <li>IA para la generación de código.</li>
+  <li>Programación en pares (Pair Programming) para revisar y mejorar la calidad del código.</li>
+  <li>Buenas prácticas de programación y documentación.</li>
+</ul></p>
 
 <br>
+
+<h3>🔍 Objetivo general 🕵️‍♂️ 🤔</h3>
+<p>Desarrollar un sistema que permita automatizar la recolección y análisis de datos de diferentes sitios web para la monitorización de precios, aprovechando o empleando los siguientes aspectos a mencionar:
+<ul>
+  IA para la generación de código.
+  Programación en pares (Pair Programming) para revisar y mejorar la calidad del código.
+  Buenas prácticas de programación y documentación.
+</ul></p>
+
+
 
 <h3>Tablas de gestión 💹</h3>
 -----------------------------------------------------------------------------------
