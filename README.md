@@ -44,12 +44,12 @@
 
 
 <h3>Tablas de gestión 💹</h3>
------------------------------------------------------------------------------------
-Sesión | Tema                                               | Duración | Fecha
------- | -------------------------------------------------- | -------- | ----------
-1      | Creación de Estructura y Configuración del Entorno | 1 hora   | 06/02/2025
-2      | Parsing del HTML y Extracción de Datos             | 1 hora   | 12/02/2025
-3      | Almacenamiento de Datos y Actualización Periódica  | 1 hora   | 13/02/2025
-4      | Integración, Validación y Manejo de Errores        | 1 hora   | 19/02/2025
-5      | Documentación, Pruebas y Presentación Final        | 1 hora   | 20/02/2025
-6      | Repaso, Ajustes Finales y Cierre del Proyecto      | 1 hora   | 26/02/2025
+
+| <div align="center">**Sesión**</div> | <div align="center">**Tema**</div>                 | <div align="center">**Duración**</div> | <div align="center">**Fecha**</div> |
+| -----------------------------------: | :------------------------------------------------- | :------------------------------------: | ----------------------------------: |
+| 1                                    | Creación de Estructura y Configuración del Entorno | 1 hora                                 | 06/02/2025                          |
+| 2                                    | Parsing del HTML y Extracción de Datos             | 1 hora                                 | 12/02/2025                          |
+| 3                                    | Almacenamiento de Datos y Actualización Periódica  | 1 hora                                 | 13/02/2025                          |
+| 4                                    | Integración, Validación y Manejo de Errores        | 1 hora                                 | 19/02/2025                          |
+| 5                                    | Documentación, Pruebas y Presentación Final        | 1 hora                                 | 20/02/2025                          |
+| 6                                    | Repaso, Ajustes Finales y Cierre del Proyecto      | 1 hora                                 | 26/02/2025                          |
