@@ -1,11 +1,11 @@
 <h1>Proyecto-de-Web-Scraping</h1>
-
-<br>
+<h5>                    Hecho por Alexander apellido1 apellido2 y Rodrigo López Pérez</h5>
+<br><hr>
 
 <h3>Proyecto de Web Scraping para Monitorización de Precios 🛍️💻</h3>
 <p>¡Bienvenido/a! Este repositorio contiene el desarrollo de un sistema de Web Scraping para monitorizar precios de productos en diferentes sitios web, con ayuda de IA para la generación de código y Pair Programming para fomentar la colaboración.</p>
 
-<hr><br>
+<br>
 
 <h3>Tabla de Contenidos 📋</h3>
 <or>
@@ -20,7 +20,7 @@
   9. Licencia
 </or>
 
-<hr><br>
+<br>
 
 <h3>Tablas de gestión 💹</h3>
 -----------------------------------------------------------------------------------
